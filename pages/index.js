@@ -14,6 +14,7 @@ export default function Home({ session, posts }) {
   return (
     <div className="h-screen bg-gray-100 overflow-hidden">
       <Head>
+        <meta name="google-site-verification" content="eQtFHkIrruF4zNYVAvQiywEnteO9JnpErUCghXIs128" />
         <title>Facebook</title>
       </Head>
       <Header />
