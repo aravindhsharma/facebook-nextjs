@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/66495f44-d544-4a9e-a1c8-a9a9d02dc5b5/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/facebook-app",
+  "appService.deploySubpath": "."
+}
